@@ -1,0 +1,1 @@
+alert("bạn đã tủ 18 tuổi chưa!");
